@@ -1,0 +1,3 @@
+shirt 500
+pant 500
+t shirt 600
